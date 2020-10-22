@@ -336,39 +336,11 @@ a:hover,a:focus,a.active{
 .bg_transparent{
   background-color: transparent;
 }
+
 .background1{
-  background-image: url(../images/slider/03.jpg);
-}
-.background2{
-    background: url(../images/background/01.jpg) no-repeat center fixed;
-}
-.background3{
-  background-image: url(../images/slider/04.jpg);
-}
-.background4{
   background-image: url(../images/slider/main.jpg);
 }
-.background5{
-  background-image: url(../images/slider/06.jpg);
-}
-.background6{
-    background-image: url(../images/footer.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    width: 100%;
-    height: auto;
-}
-.background7{
-  background-image: url(../images/background/02.jpg);
-}
-.background8{
-  background-image: url(../images/background/03.png);
-}
-.background9{
-  background-image: url(../images/background/04.jpg);
-  background-size: cover;
-  background-position: center center;
-}
+
 /*====================================================================
 08.   Nav Menu Css
 ======================================================================*/
